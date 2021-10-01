@@ -1,0 +1,3 @@
+Ejemplo guía 6: https://snack.expo.dev/@josuefabian/ej1_guia06dps
+
+Complementario guía 6: https://snack.expo.dev/@josuefabian/comp_guia6dps
