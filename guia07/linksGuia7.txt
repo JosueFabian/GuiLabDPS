@@ -1,0 +1,3 @@
+Link ejemplo: https://snack.expo.dev/@josuefabian/ej_guia7
+
+Link complementario: https://snack.expo.dev/@josuefabian/complementario-guia7

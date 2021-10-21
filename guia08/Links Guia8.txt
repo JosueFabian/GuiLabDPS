@@ -1,0 +1,3 @@
+Link ejemplo: https://snack.expo.dev/@josuefabian/gui8dps
+
+Link complementario: https://snack.expo.dev/@josuefabian/complementario_guia08
